@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/menu-icecream/static/js/main.093b0071.chunk.js",
-    "main.js.map": "/menu-icecream/static/js/main.093b0071.chunk.js.map",
-    "runtime-main.js": "/menu-icecream/static/js/runtime-main.e2c358ad.js",
-    "runtime-main.js.map": "/menu-icecream/static/js/runtime-main.e2c358ad.js.map",
-    "static/js/2.44f8d7c2.chunk.js": "/menu-icecream/static/js/2.44f8d7c2.chunk.js",
-    "static/js/2.44f8d7c2.chunk.js.map": "/menu-icecream/static/js/2.44f8d7c2.chunk.js.map",
-    "index.html": "/menu-icecream/index.html",
-    "static/js/2.44f8d7c2.chunk.js.LICENSE.txt": "/menu-icecream/static/js/2.44f8d7c2.chunk.js.LICENSE.txt",
-    "static/media/Imagem01.25e98688.svg": "/menu-icecream/static/media/Imagem01.25e98688.svg",
-    "static/media/Imagem02.bba5c3b3.svg": "/menu-icecream/static/media/Imagem02.bba5c3b3.svg",
-    "static/media/Imagem03.2cb67ca7.svg": "/menu-icecream/static/media/Imagem03.2cb67ca7.svg",
-    "static/media/header.0ec3ccc5.png": "/menu-icecream/static/media/header.0ec3ccc5.png",
-    "static/media/learnmore.dc292b48.jpg": "/menu-icecream/static/media/learnmore.dc292b48.jpg",
-    "static/media/offer.30207918.png": "/menu-icecream/static/media/offer.30207918.png"
+    "main.js": "/fit-spa/static/js/main.093b0071.chunk.js",
+    "main.js.map": "/fit-spa/static/js/main.093b0071.chunk.js.map",
+    "runtime-main.js": "/fit-spa/static/js/runtime-main.c6014693.js",
+    "runtime-main.js.map": "/fit-spa/static/js/runtime-main.c6014693.js.map",
+    "static/js/2.4f836e52.chunk.js": "/fit-spa/static/js/2.4f836e52.chunk.js",
+    "static/js/2.4f836e52.chunk.js.map": "/fit-spa/static/js/2.4f836e52.chunk.js.map",
+    "index.html": "/fit-spa/index.html",
+    "static/js/2.4f836e52.chunk.js.LICENSE.txt": "/fit-spa/static/js/2.4f836e52.chunk.js.LICENSE.txt",
+    "static/media/Imagem01.25e98688.svg": "/fit-spa/static/media/Imagem01.25e98688.svg",
+    "static/media/Imagem02.bba5c3b3.svg": "/fit-spa/static/media/Imagem02.bba5c3b3.svg",
+    "static/media/Imagem03.2cb67ca7.svg": "/fit-spa/static/media/Imagem03.2cb67ca7.svg",
+    "static/media/header.0ec3ccc5.png": "/fit-spa/static/media/header.0ec3ccc5.png",
+    "static/media/learnmore.dc292b48.jpg": "/fit-spa/static/media/learnmore.dc292b48.jpg",
+    "static/media/offer.30207918.png": "/fit-spa/static/media/offer.30207918.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2c358ad.js",
-    "static/js/2.44f8d7c2.chunk.js",
+    "static/js/runtime-main.c6014693.js",
+    "static/js/2.4f836e52.chunk.js",
     "static/js/main.093b0071.chunk.js"
   ]
 }
