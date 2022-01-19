@@ -4,7 +4,7 @@ export const FeatureContainer = styled.div`
     width: 100%;
     display: flex;
     flex-direction: column;
-    justify-content:center;
+    justify-content: space-between;
     align-items: center;
     background-color: #E7CDC2;
     padding: 4rem 0;
@@ -20,40 +20,25 @@ export const FeatureTitle = styled.h1`
 `;
 
 export const CardArea = styled.div`
-   display: grid;
-   grid-template-columns: repeat(3, 1fr);
-   gap: 0 4rem;
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
    
-   @media screen and (max-width:1100px){
-     gap: 0 2rem;
-   }
-   @media screen and (max-width: 860px){
-     grid-template-columns: 1fr;
-     padding: 5rem 0;
-     gap: 4rem 0;
-   }
-   @media screen and (max-width: 550px){
-     grid-template-columns: 1fr;
-     padding: 2.5rem 0;
+   @media screen and (max-width:1140px){
+        flex-direction: column;
+        align-items: center;
    }
 `;
 
 export const Card = styled.div`
     display: flex;
     flex-direction: column;
-    margin: 4rem auto;
-    width: 300px;
+    width: 30%;
+    margin: 30px 0px;
 
-    @media screen and (max-width:1100px){
-       width: 250px;
-   }
-    @media screen and (max-width: 860px){
-        margin: 0 auto;
-        width: 450px;
-   }
-
-    @media screen and (max-width: 550px){
-        width: 310px;
+    @media screen and (max-width:1140px){
+        flex-direction: column;
+        width: 80%;
    }
 
 `;
@@ -90,16 +75,4 @@ export const Desc = styled.h3`
     text-align: justify;
     line-height: 1.5rem;
     margin-top: 1rem;
-
-    @media screen and (max-width:1100px){
-       font-size: 16px;
-   }
-   @media screen and (max-width: 860px){
-    line-height: 1.8rem;
-    font-size: 19px;
-   }
-   @media screen and (max-width: 550px){
-    line-height: 1.5rem;
-    font-size: 15px;
-   }
 `;
