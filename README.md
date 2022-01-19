@@ -1,5 +1,6 @@
 <h1 align="center">
-<img src='https://raw.githubusercontent.com/Diego-1D/menu-icecream/main/src/images/logo.png'/>
+<img src='https://raw.githubusercontent.com/Diego-1D/fit-spa/master/src/images/HeroImg.png'/>
+  FIT.SPA
 </h1>
 
 
@@ -11,6 +12,6 @@ Para a construção do projeto foram utilizadas as seguintes ferramentas:
 
 
 ### 💻 Projeto disponível no link abaixo:
-[Ice Cream](https://diego-1d.github.io/menu-icecream/)
+[Fit Spa](https://diego-1d.github.io/fit-spa/)
 
 Feito com 💚 por Diego Fernandes 👋 [Entre em contato](https://www.linkedin.com/in/diego-fernandes-dev)
