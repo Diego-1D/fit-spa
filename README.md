@@ -6,8 +6,8 @@
 
 ### 🛠 Tecnologias
 Para a construção do projeto foram utilizadas as seguintes ferramentas:
-- **[React](https://pt-br.reactjs.org/)**
-- **[Styled-components](https://styled-components.com/)**
+- React
+- Styled-components
 
 
 
